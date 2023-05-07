@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cat-demo-account" />
+        <module name="selection-stock-gateway" />
+        <module name="cat-demo-stock" />
+        <module name="cat-demo-order" />
+        <module name="cat-demo-gateway" />
+        <module name="sentinel-demo" />
+        <module name="selection-stock-user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
