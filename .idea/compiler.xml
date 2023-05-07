@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cat-demo-account" />
+        <module name="seata-demo" />
         <module name="selection-stock-gateway" />
         <module name="cat-demo-stock" />
         <module name="cat-demo-order" />
