@@ -9,11 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cat-demo-account" />
         <module name="seata-demo" />
+        <module name="nacos-discovery-server" />
         <module name="selection-stock-gateway" />
         <module name="cat-demo-stock" />
+        <module name="nacos-discovery-client" />
         <module name="cat-demo-order" />
         <module name="cat-demo-gateway" />
         <module name="sentinel-demo" />
+        <module name="nacos-config-demo" />
         <module name="selection-stock-user" />
       </profile>
     </annotationProcessing>

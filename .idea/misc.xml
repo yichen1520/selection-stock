@@ -161,6 +161,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/seata-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-demo/pom.xml" />
       </list>
     </option>
   </component>
